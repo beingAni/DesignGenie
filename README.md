@@ -1,4 +1,4 @@
 # DesignGenie
 
-## Instructions:
-To be written
+The current digital design process, including cre- ating website templates, faces multiple drawbacks such as high costs, time-consuming processes, limited personalization, and inaccessibility for non-designers, resulting in an inefficient and impersonal design experience for users. To tackle these challenges, we propose DesignGenie, an interactive studio and marketplace capable of creating digital design products, such as website templates, based on user-specified criteria. By leveraging recent advancements in AI and natural language understanding, our platform generates source code and imagery in response to user-defined criteria obtained through form prompts (e.g., intended use case, design theme, and required title). Design- Genie utilizes multiple generative-AI APIs to create the source code and media for the requested products, rendering them as downloadable items on our website. Users can choose from a variety of generated products that meet their requirements. To enhance interactivity, we enable users to modify their specified criteria in real-time, fine-tuning the designs to closely match their preferences. DesignGenie aims to revolutionize the design process by making it more accessible, cost-efficient, and personalized, ul- timately overcoming the limitations of traditional design methods.
+
